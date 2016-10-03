@@ -27,6 +27,7 @@ Following will be the tables with the corresponding fields:
 ### Resources Table
 * Resource_Id
 * Resource_Name
+* Capacity (The resource can accommodate how many people)
 * POC_Id (Point of contact)
 
 ###POC Table
@@ -42,7 +43,6 @@ Following will be the tables with the corresponding fields:
 * Start_Time
 * End_Time
 * TimeStamp
-* Capacity (The resource can accommodate how many people)
 
 ###Category Table
 * Category
